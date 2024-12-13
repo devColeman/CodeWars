@@ -1,7 +1,7 @@
 <h1>CodeWars Challenges: <a href="https://www.codewars.com/users/DevColeman">Visit Here</a></h1>
 A personal repository where I solve and share coding problems daily, committing to a minimum of one problem each day to enhance my programming and problem-solving skills. It's my go-to space for practicing algorithms, exploring data structures, and preparing for technical interviews.
 
-
+![Image Alt Text](/codewarsProfile.png)
 
 ## How It's Made:
 
