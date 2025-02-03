@@ -6,7 +6,7 @@
 
 
 function filterString(value) {
-    let z = value.split('').filter((n) => Number(n) % 1 ===0 ).join('')
+    let z = value.split('').filter((n) => Number(n) % 1 === 0 ).join('')
     
    return Number(z)
    }
