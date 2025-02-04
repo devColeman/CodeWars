@@ -1,0 +1,9 @@
+// findLongest([1, 10, 100]), 100
+// findLongest([9000, 8, 800]), 9000
+
+function findLongest(array){
+ let f = array.sort((a,b)=> a - b)
+ console.log(f)
+   return f[f.length-1]
+  
+  }
