@@ -4,4 +4,4 @@ function checkForFactor (base, factor) {
     // E: 9,2 => false
     // P: check if the factor goes into the base 
     return base % factor === 0 ? true : false;
-  }
+  }fdsf
