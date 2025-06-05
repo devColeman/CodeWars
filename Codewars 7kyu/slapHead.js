@@ -13,6 +13,4 @@ function bald(x){
   }else {
      return [x.replaceAll('/', '-'), "Hobo!"]
   }
-    
-  
-  }
+    }
