@@ -5,4 +5,5 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
      // return 36 / 7
     return Math.abs(dadYearsOld - 2 * sonYearsOld);
    
+    
    }
