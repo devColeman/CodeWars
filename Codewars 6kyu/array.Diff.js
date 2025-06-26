@@ -4,6 +4,7 @@ function arrayDiff(a, b) {
     // E: a = [1, 2] b = [2] => [1], a = [1, 2, 2, 2, 3] b = [2] => [1,3]
     // P: use a filter on the a array, then maybe use includes to remove the items that are not in b
     
+    
     return a.filter((e) => {
       return !b.includes(e)
     })
