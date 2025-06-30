@@ -13,6 +13,4 @@ snoopy.bark = function() {
 };
 
 
-
-
 var scoobydoo = new Dog("Great Dane")
