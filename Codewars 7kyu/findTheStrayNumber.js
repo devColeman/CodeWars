@@ -10,5 +10,6 @@ function stray(numbers) {
       return k[k.length - 1]
     }
     
+    
   }
   
