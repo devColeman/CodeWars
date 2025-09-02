@@ -5,6 +5,7 @@ function getFirstPython(list) {
     // there is a dev then return a template literal
     // P: use find to get the first dev
      
+    
      let a = list.find((word) => word.language == 'Python' )
      return a != undefined ? `${a.firstName}, ${a.country}` : "There will be no Python developers" ;
    }
