@@ -3,5 +3,3 @@ function mystery() {
       {sanity: 'Hello'};
     return results;
   }
-
-  
